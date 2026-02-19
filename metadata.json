@@ -1,7 +1,7 @@
 {
     "title": "Python: Strings - Introduction and Creation",
     "slug": "python-strings-introduction",
-    "description": "Introduction to Python strings as collections of characters. Covers how to create strings using single and double quotes, that strings are sequences of characters, and the str type.",
+    "description": "Introduction to Python strings as collections of characters. Covers how to create strings using single and double quotes, that strings are sequences of characters, and valid characters.",
     "authors": [
         "chris-cooling"
     ],
@@ -11,7 +11,6 @@
     "duration": 3,
     "prerequisites": [
         "python-print",
-        "python-comments",
         "programming-strings"
     ],
     "related": [
