@@ -16,7 +16,7 @@
     ],
     "related": [
         "python-strings-length",
-        "python-strings-indexing",
+        "python-indexing",
         "python-strings-slicing",
         "python-strings-concatenation",
         "python-multiline-strings"
