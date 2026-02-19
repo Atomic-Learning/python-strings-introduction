@@ -18,7 +18,7 @@
         "python-strings-length",
         "python-indexing",
         "python-strings-slicing",
-        "python-strings-concatenation",
+        "python-concatenation",
         "python-multiline-strings"
     ]
 }
