@@ -11,7 +11,9 @@
     "duration": 3,
     "prerequisites": [
         "python-print",
-        "programming-strings"
+        "programming-strings",
+        "python-comments",
+        "python-variables"
     ],
     "related": [
         "python-strings-length",
