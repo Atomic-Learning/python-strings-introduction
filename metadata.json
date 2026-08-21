@@ -16,9 +16,9 @@
         "python-variables"
     ],
     "related": [
-        "python-strings-length",
+        "python-len",
         "python-indexing",
-        "python-strings-slicing",
+        "python-slicing",
         "python-concatenation",
         "python-multiline-strings"
     ]
