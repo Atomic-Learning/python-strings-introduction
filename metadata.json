@@ -20,6 +20,7 @@
         "python-indexing",
         "python-slicing",
         "python-concatenation",
+        "python-collection-multiplication",
         "python-multiline-strings"
     ]
 }
