@@ -23,11 +23,11 @@ print(empty) # No text will be displayed because the string is empty
 
 # Valid Characters in Strings
 
-Strings in Python can contain any valid Unicode characters, including letters, numbers, punctuation, and even emojis:
+Strings in Python can contain any valid Unicode characters, including letters, numbers, punctuation, characters from non-English alphabets, and even emojis:
 
 ```py-cell
-exotic_string = ":@123😀🎉"
-print(exotic_string)
+interesting_string = ":@123蟒蛇😀🎉"
+print(interesting_string)
 ```
 
 Some characters may require special handling (such as newlines or tabs), but in general, you can include any character you want in a string.
